@@ -4,10 +4,13 @@ This example makes every func, except for main, into an FBP component.  Each com
 
 Each FBP component resides in its own sub-directory.
 
+
 To install:
 
 $ cd collate-main
+
 $ go install
+
 
 To run:
 
